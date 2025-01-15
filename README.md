@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/4dc08f06-8de5-4b6d-aa2a-ace13e2b3e3f)
 ![image](https://github.com/user-attachments/assets/c512d5be-4c36-478e-b5c7-35da61c8b6ef)
 
-![Ícone do GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) Cash Flow APP
+$ Cash Flow APP - Consultoria Financeira
 
 
 ##📒 Projeto Organizando a vida Financeira com Planilhas Inteligentes e IA
