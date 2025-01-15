@@ -1,7 +1,8 @@
 ![image](https://github.com/user-attachments/assets/4dc08f06-8de5-4b6d-aa2a-ace13e2b3e3f)
 ![image](https://github.com/user-attachments/assets/c512d5be-4c36-478e-b5c7-35da61c8b6ef)
 
-Cash Flow APP
+![image](https://github.com/user-attachments/assets/42c29709-c932-4f94-b474-954978e681c4) Cash Flow APP
+
 
 ##📒 Projeto Organizando a vida Financeira com Planilhas Inteligentes e IA
 Criação de Planilhas Inteligentes e uso de IA para organizar entradas e gastos financeiros, bem como fazer análises.
