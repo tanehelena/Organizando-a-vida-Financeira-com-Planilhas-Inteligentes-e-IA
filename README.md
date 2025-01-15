@@ -16,7 +16,7 @@ Criação de Planilhas Inteligentes e uso de IA para organizar entradas e gastos
 
 ## 🧐 Processo de Criação
 - Criação de planilhas, tabelas dinâmicas e gráficos usando o Excel, a partir de dados fornecidos.
-- Uso do ChatGPT para análise dos dados fornecidos e geração de insights com os prompts abaixo.
+- Uso do ChatGPT para análise da planilha gerada a partir dos dados fornecidos, e geração de insights com os prompts abaixo.
   - Prompt 1: Utilize a tabela de dados, contida no documento acima, como base de conhecimento e me gere alguns insights dessa tabela de gastos
   - Prompt 2: aonde estão meus maiores gastos
   - Prompt 3: me ajude a priorizar cortes de gastos em alguma área
